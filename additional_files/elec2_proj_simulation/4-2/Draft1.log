@@ -1,0 +1,128 @@
+Circuit: * F:\lt_spice\elec2_proj\4-2\Draft1.asc
+
+Direct Newton iteration failed to find .op point.  (Use ".option noopiter" to skip.)
+Starting Gmin stepping
+Gmin = 10
+Gmin = 1.07374
+Gmin = 0.115292
+Gmin = 0.0123794
+Gmin = 0.00132923
+Gmin = 0.000142725
+Gmin = 1.5325e-005
+Gmin = 1.6455e-006
+vernier = 0.5
+vernier = 0.25
+Gmin = 4.31359e-007
+vernier = 0.125
+vernier = 0.0625
+vernier = 0.03125
+vernier = 0.015625
+Gmin = 4.2143e-007
+vernier = 0.0078125
+vernier = 0.00390625
+vernier = 0.00195313
+vernier = 0.000976563
+vernier = 0.000488281
+Gmin = 4.19791e-007
+Gmin = 0
+Gmin stepping failed
+
+Starting source stepping with srcstepmethod=0
+Source Step = 3.0303%
+Source Step = 33.3333%
+Source Step = 49.053%
+Source Step = 49.1477%
+Source Step = 49.2661%
+Source Step = 49.3845%
+Source Step = 49.5028%
+Source Step = 49.6212%
+vernier = 0.00585938
+Source Step = 49.781%
+Source Step = 49.9586%
+Source Step = 50.1361%
+Source Step = 50.3137%
+Source Step = 50.4912%
+vernier = 0.00878906
+Source Step = 50.7221%
+Source Step = 50.9884%
+Source Step = 51.2547%
+Source Step = 51.5211%
+Source Step = 51.7874%
+vernier = 0.0131836
+Source Step = 52.1203%
+Source Step = 52.5198%
+Source Step = 52.9193%
+Source Step = 53.3188%
+Source Step = 53.7183%
+vernier = 0.0197754
+Source Step = 54.1977%
+Source Step = 54.797%
+Source Step = 55.3962%
+Source Step = 55.9955%
+Source Step = 56.5948%
+vernier = 0.0296631
+Source Step = 57.2839%
+Source Step = 58.1828%
+Source Step = 59.0817%
+Source Step = 59.9805%
+Source Step = 60.8794%
+vernier = 0.0444946
+Source Step = 61.8682%
+Source Step = 63.2165%
+Source Step = 64.5648%
+Source Step = 65.9132%
+Source Step = 67.2615%
+vernier = 0.0667419
+Source Step = 68.6772%
+Source Step = 70.6997%
+Source Step = 72.7222%
+Source Step = 74.7447%
+Source Step = 76.7672%
+Source Step = 78.7896%
+vernier = 0.100113
+Source Step = 81.8234%
+Source Step = 84.8571%
+Source Step = 87.8908%
+Source Step = 90.9245%
+Source Step = 93.9583%
+vernier = 0.150169
+Source Step = 98.3572%
+Source stepping succeeded in finding the operating point.
+
+N-Period=1
+Fourier components of V(n008)
+DC component:-0.225883
+
+Harmonic	Frequency	 Fourier 	Normalized	 Phase  	Normalized
+ Number 	  [Hz]   	Component	 Component	[degree]	Phase [deg]
+    1   	1.000e+01	8.333e+00	1.000e+00	    4.36°	    0.00°
+    2   	2.000e+01	4.461e-01	5.353e-02	   70.57°	   66.21°
+    3   	3.000e+01	4.576e-01	5.492e-02	  -22.57°	  -26.93°
+    4   	4.000e+01	3.315e-01	3.978e-02	 -127.22°	 -131.58°
+    5   	5.000e+01	2.952e-01	3.543e-02	  147.01°	  142.65°
+    6   	6.000e+01	1.831e-01	2.197e-02	   39.71°	   35.35°
+    7   	7.000e+01	1.400e-01	1.680e-02	  -27.01°	  -31.38°
+    8   	8.000e+01	6.252e-02	7.503e-03	 -124.78°	 -129.14°
+    9   	9.000e+01	8.769e-02	1.052e-02	 -159.65°	 -164.01°
+Total Harmonic Distortion: 9.823894%(10.360506%)
+
+
+
+Date: Fri Jul 11 20:20:24 2025
+Total elapsed time: 0.356 seconds.
+
+tnom = 27
+temp = 27
+method = modified trap
+totiter = 26445
+traniter = 22112
+tranpoints = 7167
+accept = 5332
+rejected = 1835
+matrix size = 90
+fillins = 92
+solver = Normal
+Thread vector: 3.0/1.9[2] 1.5/0.9[2] 0.8/0.7[2] 0.2/0.7[1]  2592/500
+Matrix Compiler1: 13.23 KB object code size  1.4/0.7/[0.5]
+Matrix Compiler2: 10.11 KB object code size  0.6/0.7/[0.3]
+
