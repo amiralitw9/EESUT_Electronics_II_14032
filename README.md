@@ -12,13 +12,14 @@ This project involves the comprehensive design, frequency analysis, and full-sca
 * **Active Components:** BJT & MOSFET Hybrid Architecture
 * **Key Analyses:** DC Biasing, AC Small-Signal, Frequency Response, and Total Harmonic Distortion (THD)
 * **Documentation:** LaTeX
-
 ---
 
 ## 📂 Repository Structure
 
+The project files are systematically organized into structural phase directories:
+
 ```text
-├── 📁 LTspice-Simulations/    # Complete LTspice circuit schematics (.asc) and models
-├── 📁 Technical-Report/       # LaTeX source files and comprehensive design documentation
-│   └── Project_Report.pdf     # Final PDF report detailing calculations and waveforms
-└── 📄 README.md               # Project overview and documentation guide
+├── 📁 project_phase1/          # Core design and initial simulation modules
+└── 📁 project_phase2/          # Advanced hybrid BJT-MOS power amplifier phase
+    ├── 📁 additional_files/    # Mid-stage schematics and auxiliary design files
+    └── 📄 Project_Report_phase2.pdf # Comprehensive technical project report
