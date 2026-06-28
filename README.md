@@ -19,7 +19,9 @@ This project involves the comprehensive design, frequency analysis, and full-sca
 The project files are systematically organized into structural phase directories:
 
 ```text
-├── 📁 project_phase1/          # Core design and initial simulation modules
-└── 📁 project_phase2/          # Advanced hybrid BJT-MOS power amplifier phase
-    ├── 📁 additional_files/    # Mid-stage schematics and auxiliary design files
+├── 📁 project_phase1/         
+    ├── 📁 additional_files/    
+    └── 📄 Project_Report_phase1.pdf 
+└── 📁 project_phase2/         
+    ├── 📁 additional_files/
     └── 📄 Project_Report_phase2.pdf # Comprehensive technical project report
